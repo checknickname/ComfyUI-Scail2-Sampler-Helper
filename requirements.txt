@@ -1,0 +1,4 @@
+# torch, numpy, Pillow, typing_extensions are provided by ComfyUI.
+# Only SCAIL2PromptEnhancer needs llama-cpp-python (optional).
+# For GPU builds install a CUDA wheel instead, see https://github.com/abetlen/llama-cpp-python
+llama-cpp-python
